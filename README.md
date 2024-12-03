@@ -18,7 +18,7 @@
       </td>
       <td>
         <img
-          src="https://img.icons8.com/?size=48&id=70yRC8npwT3d&format=png"
+          src="https://img.icons8.com/?size=48&id=70yRC8npwT3d&format=png?user=https://github.com/Mohammed-Alaa-Mohammed/Mohammed-Alaa-Mohammed&theme=tokyonight"
           alt="GitHub Stats"
         />
       </td>
