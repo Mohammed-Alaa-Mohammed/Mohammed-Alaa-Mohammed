@@ -18,9 +18,8 @@
       </td>
       <td>
         <img
-          src="https://img.icons8.com/?size=48&id=70yRC8npwT3d&format=png?https://github.com/Mohammed-Alaa-Mohammed/Mohammed-Alaa-Mohammed&theme=tokyonight"
-          alt="GitHub Stats"
-        />
+          src="https://img.icons8.com/?size=48&id=70yRC8npwT3d&format=png<a href="https://github.com/Mohammed-Alaa-Mohammed/Mohammed-Alaa-Mohammed&theme=tokyonight">
+          alt="GitHub Stats"/></a>
       </td>
     </tr>
   </thead>
