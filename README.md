@@ -1,6 +1,7 @@
 ### __Hello there 👋 I'm Mohammed Alaa Mohammed__
 
-## About Me
+
+# About Me
 - 👍 Desktop Application Developer, Penetration Testing Tool Maker, and GUI Develope
 
 # Tech Stack
@@ -10,11 +11,17 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
-     <td>
-        <img src="https://streak-stats.demolab.com/?user=https://github.com/Mohammed-Alaa-Mohammed/Mohammed-Alaa-Mohammed&amp;theme=tokyonight" alt="GitHub Stats">
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=https://github.com/Mohammed-Alaa-Mohammed/Mohammed-Alaa-Mohammed&show_icons=true&locale=en&theme=tokyonight&count_private=true"
+          alt="GitHub Stats"
+        />
       </td>
       <td>
-       <img src="https://streak-stats.demolab.com/?user=https://github.com/Mohammed-Alaa-Mohammed/Mohammed-Alaa-Mohammed&amp;theme=tokyonight" alt="GitHub Stats">
+        <img
+          src="https://streak-stats.demolab.com/?user=https://github.com/Mohammed-Alaa-Mohammed/Mohammed-Alaa-Mohammed&theme=tokyonight"
+          alt="GitHub Stats"
+        />
       </td>
     </tr>
   </thead>
