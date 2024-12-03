@@ -17,10 +17,10 @@
         />
       </td>
       <td>
-        <a
         <img
-          src="https://img.icons8.com/?size=48&id=70yRC8npwT3d&format=pn alt="GitHub Stats"/> href="https://github.com/Mohammed-Alaa-Mohammed/Mohammed-Alaa-Mohammed&theme=tokyonight">
-        </a>
+          src="https://streak-stats.demolab.com/?user=https://github.com/Mohammed-Alaa-Mohammed/Mohammed-Alaa-Mohammed&theme=tokyonight"
+          alt="GitHub Stats"
+        />
       </td>
     </tr>
   </thead>
