@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [None](None)
 
- - 📫 How to reach me <a href = "https://wa.me/+966538886324" target ="_blank"></a>
+ - 📫 How to reach me <a href = "https://wa.me/+966538886324"></a>
 
 - 📄 Know about my experiences [None](None)
 
