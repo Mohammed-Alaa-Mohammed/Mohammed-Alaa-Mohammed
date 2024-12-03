@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [None](None)
 
- - 📫 How to reach me (https://wa.me/+966538886324)
+ - 📫 How to reach me https://wa.me/+966538886324
 
 - 📄 Know about my experiences [None](None)
 
